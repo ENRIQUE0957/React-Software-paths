@@ -1,0 +1,10 @@
+.software-Card{
+    padding:6rem;
+    margin:auto;
+    box-sizing:border-box;
+    background-color:white
+}
+.Component-list{
+    list-style:none;
+    border-bottom:1px solid red;
+}

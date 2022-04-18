@@ -1,0 +1,13 @@
+.Softwarepath{
+    padding:6rem;
+    margin:auto;
+    background-color:rgb(255, 255, 255);
+}
+.software-job{
+    font-size:2rem;
+    color:black
+}
+button{
+    padding:2rem;
+    background-color:aqua;
+}
