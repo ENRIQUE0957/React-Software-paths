@@ -16,24 +16,24 @@ function App(props) {
 },
 {
   
-  job:"web-developer",
-  syntaxCode:'JavaScript',
-  frameWorks:"react",
-  dataBase:"MySQL",
+  job:"Back-end",
+  syntaxCode:'Python',
+  frameWorks:"Django",
+  dataBase:"MangoDB",
 },
 {
   
-  job:"web-developer",
-  syntaxCode:'JavaScript',
-  frameWorks:"react",
-  dataBase:"MySQL",
+  job:"Full-Stack",
+  syntaxCode:'node.js',
+  frameWorks:"Express",
+  dataBase:"MangoDB",
 },
 {
   
-  job:"web-developer",
-  syntaxCode:'JavaScript',
-  frameWorks:"react",
-  dataBase:"MySQL",
+  job:"mobile-developer",
+  syntaxCode:'Linux',
+  frameWorks:"Linux",
+  dataBase:"Linux",
 }
 
 
